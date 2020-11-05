@@ -1,0 +1,6 @@
+https://www.instructables.com/id/Polargraph-Drawing-Machine/
+A complete set of design introduction, and the drawing path plan provided by Processing.
+https://github.com/euphy/polargraph/wiki
+Program link
+https://www.geek-workshop.com/thread-13243-1-1.html
+Chinese translation
